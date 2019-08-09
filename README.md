@@ -23,10 +23,3 @@ npm start
 ```
 
 Then open a browser to `http://localhost:8000`
-
-## Environment variables
-
-The following environment variables are exposed to configure the application:
-
-- `MONGO_HOST`: The hostname of the mongodb server
-- `MONGO_PORT`: The port of the mongodb server
